@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.OleksiiShakh.PrototypeUnity",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2,
+        "versionName": "0.2",
+        "outputFile": "launcher-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.OleksiiShakh.PrototypeUnity",
+        "split": "",
+        "minSdkVersion": "31"
+      }
+    }
+  ]
+}
